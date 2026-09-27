@@ -160,7 +160,7 @@ Code_Slayer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Umesh-chandra-2006/Code_Slayer.git
+git clone https://github.com/55247719/Code_Slayer.git
 cd Code_Slayer
 ```
 
